@@ -1,0 +1,21 @@
+{
+  "name": "realms-treasury",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.7.9",
+    "bs58": "^6.0.0",
+    "governance-idl-sdk": "^0.0.4"
+  }
+}
